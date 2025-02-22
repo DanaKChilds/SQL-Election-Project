@@ -41,19 +41,13 @@ To run this project locally, follow these steps:
 - **Data Cleaning:** Removes unnecessary columns, standardizes naming conventions.
 - **Exploratory Data Analysis:** Identifies voter trends and key demographic shifts.
 - **Election Result Comparisons:** Compares Democratic and Republican performance in 2016 vs. 2024.
-- **Visualizations:** Uses Matplotlib and Seaborn for insights.
+- **Visualizations:** Uses Matplotlib for insights.
 
 ## Data Sources
-The datasets originate from Massachusetts election records and include county-level vote counts.
+The datasets originate from Massachusetts election records and include municipality-level vote counts.
 
 ## Usage
 This project provides insights for political analysts, researchers, and data scientists exploring U.S. electoral trends.
 
 ## Contributing
 Contributions are welcome! Fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License. See `LICENSE` for details.
-
-## Contact
-For questions or collaborations, reach out via [your email] or open an issue on GitHub.
